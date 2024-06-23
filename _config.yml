@@ -1,6 +1,6 @@
 title: Prakhar Srivasatava
-#logo: /assets/img/logo.png
-description: ASDFGHJKL;KJHGFDS
+logo: /assets/img/logo.png
+description: ABOUT ME
 show_downloads: true
-#google_analytics:
+google_analytics:
 theme: jekyll-theme-minimal
